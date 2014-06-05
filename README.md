@@ -5,8 +5,8 @@
 - **Start a new project and implement the game in Angular JS**
 - Feel free to build on top of Rails. Tic Tac Toe doesn't require API server calls, so it doesn't really matter.
 - One controller and a single view is probably all you need, so no routes or resources required.
-- Don't use jQuery or the native DOM api, instead bind DOM elements the Angular way.
-- Please use Coffeescript.
+- Don't use jQuery or the native DOM API, instead bind DOM elements the Angular way.
+- Use Coffeescript or Javascript.
 
 ##Suggested Implementation
 
