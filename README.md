@@ -7,7 +7,6 @@
 - One controller and a single view is probably all you need, so no routes or resources required.
 - Don't use jQuery or the native DOM api, instead bind DOM elements the Angular way.
 - Please use Coffeescript.
-- Add the option to allow Ernie to play against the computer instead of Bert. The algorithm should be better than picking tiles randomly. 
 
 ##Suggested Implementation
 
