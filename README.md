@@ -8,8 +8,6 @@
 - Don't use jQuery or the native DOM api, instead bind DOM elements the Angular way.
 - Please use Coffeescript.
 - Add the option to allow Ernie to play against the computer instead of Bert. The algorithm should be better than picking tiles randomly. 
-- Here are the docs to get started with Firebase: https://www.firebase.com/how-it-works.html
-
 
 ##Suggested Implementation
 
