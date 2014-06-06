@@ -10,11 +10,11 @@
 
 ##Suggested Implementation
 
-1. Start by creating a 3 x 3 grid in HTML. Define styles that can be added to a cell to indicate it is either an X or O. We will be using Coffeescript to toggle on classes when a user clicks a square.
+1. Start by creating a 3 x 3 grid in HTML. Define styles that can be added to a cell to indicate it is either an X or O. We will be using Coffeescript or Javascript to toggle on classes when a user clicks a square.
 
-2. Brainstorm a data structure that you want to use to store the moves of the players in Coffescript. This can either be an Array, or Hash. Think carefully as you will need to examine the moves at the end to find a winning solution.
+2. Brainstorm a data structure that you want to use to store the moves of the players in Coffescript or Javascript. This can either be an Array, or Hash. Think carefully as you will need to examine the moves at the end to find a winning solution.
 
-3. Start to implement behavior on the square clicks. Make it alternate between placing X and Os with the resepetive styling.
+3. Start to implement behavior on the square clicks. Make it alternate between placing X and Os with the respective styling.
 
 
 ##Bonus Ideas
